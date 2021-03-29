@@ -1,0 +1,26 @@
+body {
+  background: #4a4a4a;
+}
+p {
+  color: beige;
+  font-family: fantasy
+}
+h1 {
+  font-weight: bold;
+  color: red;
+  font-family: monospace;
+}
+input {
+  color: #0045ff;
+  font-style: italic;
+  font-variant: small-caps;
+  background-color: #484848;
+}
+button {
+  color: red;
+  background-color: beige;
+  font-family: monospace;
+  height: 50px;
+  width: 100px;
+  font-size: 25px;
+}

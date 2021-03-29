@@ -1,0 +1,21 @@
+body {
+  background: #d3d3d3;
+}
+p {
+  color: black;
+}
+h1 {
+  font-weight: bold;
+  color: red;
+  font-family: monospace;
+}
+input {
+  color: #0045ff;
+  font-style: italic;
+  font-variant: small-caps;
+  background-color: #484848;
+}
+button {
+  color: blue;
+  background-color: beige;
+}
