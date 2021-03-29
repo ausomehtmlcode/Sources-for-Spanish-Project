@@ -10,5 +10,7 @@ although you cannot import files, although you can make these files and then cop
 
 Once the files are imported, you may change the code in them. Read the readme.md to see what you can and can't do with my code.
 
+If you just want to run them, put the 4 files in a folder, then you should be able to double-click "index.html" to open the site.
+
 Happy coding!
 -Aidan McCarthy
