@@ -9,6 +9,7 @@ THINGS YOU CAN DO WITH THE CODE!
 - Edit the code
 - Change the links and the text in info.html to make your own sources for your own project!
 - Basically anything other than what you can't do (Except for stupid stuff like shaving a tree with it or something)
+
 THINGS YOU CANNOT DO WITH THE CODE!
 - Apply no changes to the code and then say it is.
 - Bake a cake with it.
